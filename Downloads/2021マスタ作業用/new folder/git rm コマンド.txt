@@ -1,3 +1,7 @@
+
+
+NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW　　NEW
+
 # git rm コマンドの挙動の補足
 
 動画の中では git rm コマンドは「ファイルの削除をリポジトリに記録する」と解説しております。
